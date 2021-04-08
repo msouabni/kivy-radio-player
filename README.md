@@ -10,14 +10,7 @@
   <p align="center">
     Kivy Radio Player (KRP) is a simple player application designed for Android Mobile. KRP is useful in multiple use cases : Radio Streaming Player for Mobile App, Playlist Player Mobile App, Podcasts Player Mobile App. You only need to custom playlist.json file.
     <br />
-    <a href="https://github.com/msouabni/kivy-radio-player"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/msouabni/kivy-radio-player">View Demo</a>
-    ·
-    <a href="https://github.com/msouabni/kivy-radio-player/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/msouabni/kivy-radio-player/issues">Request Feature</a>
+    
   </p>
 </p>
 
@@ -60,7 +53,9 @@
 ### Built With
 
 * [Python](https://www.python.org/)
-* [Bootstrap](https://getbootstrap.com)
+* [Kivy](https://kivy.org)
+* [Buildozer](https://buildozer.readthedocs.io/en/latest/)
+* [Android MediaPlayer](https://developer.android.com/guide/topics/media/mediaplayer)
 
 
 <!-- GETTING STARTED -->
