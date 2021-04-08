@@ -39,7 +39,7 @@ SERVICE_NAME = u'{packagename}.Service{servicename}'.format(
     servicename=u'Radioplayer'
 )
 
-with open("radio_stations.json") as f:
+with open("playlist.json") as f:
     data = f.read()
 
 radio_stations = json.loads(data)
