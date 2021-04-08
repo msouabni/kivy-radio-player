@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](./data/screenshort_krp.jpg?raw=true)
+![Kivy Radio Player Screen Shot](data/screenshort_krp.jpg)
 
 ### Built With
 
