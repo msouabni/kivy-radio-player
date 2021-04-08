@@ -2,13 +2,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/msouabni/kivy-radio-player">
-    <img src="https://via.placeholder.com/80" alt="Logo" width="80" height="80">
+    <img src="data/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">kivy-radio-player</h3>
 
   <p align="center">
-    Kivy Radio Player (KRP) is a simple player application designed for Android Mobile. KRP is useful in multiple use cases : Radio Mobile App, Playlist Mobile App, Music Mobile App. You only need to custom playlist.json file.
+    Kivy Radio Player (KRP) is a simple player application designed for Android Mobile. KRP is useful in multiple use cases : Radio Streaming Player for Mobile App, Playlist Player Mobile App, Podcasts Player Mobile App. You only need to custom playlist.json file.
     <br />
     <a href="https://github.com/msouabni/kivy-radio-player"><strong>Explore the docs »</strong></a>
     <br />
